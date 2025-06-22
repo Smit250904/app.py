@@ -4,4 +4,3 @@ torchvision
 transformers
 Pillow
 numpy
-opencv-python
